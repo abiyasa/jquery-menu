@@ -6,4 +6,4 @@ Run `npm install jquery-menu` to install jquery-menu and all dependencies into n
 
 Run `npm install lasso-cli -g` to install Lasso bundler.
 
-Run `lasso browser.json` to bundle all node_modules scripts into single static/browser.js.
+Run `lasso browser.json --minify` to bundle all node_modules scripts into single static/browser.js.
